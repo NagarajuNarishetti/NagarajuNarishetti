@@ -1,0 +1,139 @@
+<h1 align="center">Hi 👋, I'm Nagaraju Narishetti</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Software Engineer</h3>
+
+<p align="center">
+  <img src="mygif.gif" alt="Profile GIF" width="400" height="300"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Hackathon+Winner;Real-time+Systems+Expert;Multi-Modal+AI+Developer" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🎓 **Full-Stack Developer** specializing in **AI-powered applications** and **real-time collaboration systems**
+- 🔭 Passionate about **multi-modal AI**, **emotion detection**, and **adaptive learning platforms**
+- 🧠 Expert in **microservices architecture**, **real-time systems**, and **multi-tenant applications**
+- 🏆 **Hackathon Winner** - 8th place nationally in HacKronyX with 3,300+ competing teams
+- 💬 Ask me about **AI/ML Integration**, **Real-time Collaboration**, **Microservices**, **Full-Stack Development**
+- 📫 Reach me at **nagarajunarishetti@gmail.com**
+- 🌱 Currently exploring **Advanced Computer Vision**, **Natural Language Processing**, and **Cloud-Native Architectures**
+
+---
+
+## 💼 Featured Projects
+
+🔹 **[CareDesk](https://github.com/NagarajuNarishetti/caredesk)**: Multi-tenant support ticket system with role-based dashboards, real-time updates, and file attachments using Next.js, Express, PostgreSQL, Redis, RabbitMQ, and MinIO
+
+🔹 **[EmoLearn](https://github.com/NagarajuNarishetti/emo-learn-nexus)**: AI-powered emotion detection platform combining facial, voice, and mouse interaction analysis with adaptive learning assistance - **8th place nationally in HacKronyX Hackathon**
+
+🔹 **[Docsy](https://github.com/NagarajuNarishetti/docsy)**: Collaborative media & documents platform with real-time editing (Yjs + TipTap), file management, and organization-based sharing using Next.js, Express, PostgreSQL, MongoDB, and MinIO
+
+🔹 **[FrameSync](https://github.com/NagarajuNarishetti/framesync)**: Full-stack media collaboration app for frame annotation, real-time commenting, and organization management with Socket.IO integration
+
+🔹 **[My Gallery](https://github.com/NagarajuNarishetti/my-gallery)**: Production-ready media gallery with S3-compatible storage, bulk operations, folder management, and theme switching
+
+🔹 **[Pascalcase](https://github.com/NagarajuNarishetti/pascalcase)**: Modern responsive website with glassmorphism design, dark/light themes, and premium UI components built with Next.js 14 and TypeScript  
+
+---
+
+## 🔧 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Backend & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-FF0000?style=for-the-badge&logo=minio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keycloak-010101?style=for-the-badge&logo=keycloak&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **8th Place Nationally** in HacKronyX Hackathon (3,300+ teams) with EmoLearn - AI-powered emotion detection platform
+- 🏗️ **Full-Stack Architecture** - Built complex systems with microservices, real-time collaboration, and multi-tenant support
+- 🔄 **Real-Time Systems** - Implemented Socket.IO, WebSocket, and collaborative editing with Yjs + TipTap
+- 🎯 **Production-Ready Applications** - Developed scalable solutions with Docker, Redis, RabbitMQ, and cloud storage
+- 🏁 **Continuous Innovation** - Always exploring cutting-edge technologies and AI/ML integration
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NagarajuNarishetti&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagarajuNarishetti&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NagarajuNarishetti&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NagarajuNarishetti&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/NagarajuNarishetti/NagarajuNarishetti/output/snake.svg)
+
+---
+
+## 🌐 Connect with Me
+
+| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>                       | [LinkedIn](https://www.linkedin.com/in/nagaraju-narishetti) |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>   | [GitHub](https://github.com/NagarajuNarishetti)                       |
+| <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="25"/>                       | [Email](mailto:nagarajunarishetti@gmail.com)                      |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NagarajuNarishetti&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
