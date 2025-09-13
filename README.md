@@ -180,7 +180,15 @@
 
 ## 🏆 Achievements
 
+### 🏅 Competitive Programming & Academic Excellence
+- 🥇 **All India Rank (AIR) 1479** out of 300,000+ participants in TCS CodeVita Season 12 - Global competitive programming contest
+- 🏆 **Top 20% Globally on LeetCode** with Contest Rating of 1605
+- 🎓 **Batch Topper** - Recognized as top 1 student for academic excellence
+- 🎯 **Amazon ML Summer School 2025** - Selected among top 3000 students across India
+
+### 🚀 Hackathon & Innovation
 - 🥇 **8th Place Nationally** in HacKronyX Hackathon (3,300+ teams) with EmoLearn - AI-powered emotion detection platform
+- 🏆 **National Level Hackathon Winner** - Chalapathi Institute, Andhra Pradesh, Guntur
 - 🏗️ **Full-Stack Architecture** - Built complex systems with microservices, real-time collaboration, and multi-tenant support
 - 🔄 **Real-Time Systems** - Implemented Socket.IO, WebSocket, and collaborative editing with Yjs + TipTap
 - 🎯 **Production-Ready Applications** - Developed scalable solutions with Docker, Redis, RabbitMQ, and cloud storage
