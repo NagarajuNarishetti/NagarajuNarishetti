@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaraju Narishetti</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Software Engineer</h3>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Software Development Engineer</h3>
 
 <p align="center">
   <img src="mygif.gif" alt="Profile GIF" width="400" height="300"/>
