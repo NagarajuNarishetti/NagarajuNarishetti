@@ -19,7 +19,7 @@
 - 🏆 **Hackathon Winner** - 8th place nationally in HacKronyX with 3,300+ competing teams
 - 💬 Ask me about **Data Structures and Algorithms**, **SQL**, **Microservices**, **Full-Stack Development** , 
 - 📫 Reach me at **narishettinagaraju26@gmail.com**
-- 🌱 Currently exploring **AI & ML **, and **Cloud-Native Architectures**
+- 🌱 Currently exploring **AI & ML**, and **Cloud-Native Architectures**
 
 ---
 
