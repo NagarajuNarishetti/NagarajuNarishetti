@@ -215,15 +215,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&theme=tokyonight&hide_border=false&custom_title=GitHub%20Streak&hide=prs,issues,contribs&show_icons=true&count_private=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NagarajuNarishetti&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NagarajuNarishetti&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
