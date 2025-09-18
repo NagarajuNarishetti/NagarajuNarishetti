@@ -210,11 +210,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=false&include_all_commits=false" alt="GitHub Stats" />
 </p>
 
-<!-- Alternative GitHub Stats (if the above fails) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats Alternative" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagarajuNarishetti&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
 </p>
