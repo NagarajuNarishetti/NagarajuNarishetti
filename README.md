@@ -207,9 +207,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <!-- Fallback: If the above fails, try this alternative -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=false&include_all_commits=false" alt="GitHub Stats" />
+</p>
+
+<!-- Alternative GitHub Stats (if the above fails) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats Alternative" />
 </p>
 
 <p align="center">
