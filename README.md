@@ -208,6 +208,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Fallback: If the above fails, try this alternative -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NagarajuNarishetti&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" /> -->
 </p>
 
 <p align="center">
