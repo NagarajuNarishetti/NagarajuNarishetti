@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **Full-Stack Developer** specializing in  **Problem solving Using Data Structures and Algorithms**
+- 🎓 **Full-Stack Developer** specializing in  **Problem solving Using Data structures and Algorithms**
 
 - 🧠 Expert in **microservices architecture**, **real-time systems**, and **multi-tenant applications**
 - 🏆 **Hackathon Winner** - 8th place nationally in HacKronyX with 3,300+ competing teams
